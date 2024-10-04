@@ -1,6 +1,6 @@
 # Solar magnetic fluxtube
 
-This repository contains numerical methods and results for calculating magnetic flux structures undergoing magneto-hydrostatic equilibrium with the ambient gas. The numerical methods implemented follow the approach described by Steiner, Pneuman, and Stenflo (1986).
+This repository contains numerical methods and results for calculating solar-surface magnetic flux structures undergoing magneto-hydrostatic equilibrium with the ambient gas. The numerical methods implemented follow the approach described by Steiner, Pneuman, and Stenflo (1986).
 
 ## Contents
 - **'run1_network.ipynb'**: Provides numerical results for finite-difference calculations on a 65×65 mesh grid.
