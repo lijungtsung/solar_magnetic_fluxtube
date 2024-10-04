@@ -3,22 +3,22 @@
 This repository contains numerical methods and results for calculating magnetic flux structures undergoing magneto-hydrostatic equilibrium with the ambient gas. The numerical methods implemented follow the approach described by Steiner, Pneuman, and Stenflo (1986).
 
 ## Contents
--- run1_network.ipynb: Provides numerical results for finite-difference calculations on a 65×65 mesh grid.
+- **'run1_network.ipynb'**: Provides numerical results for finite-difference calculations on a 65×65 mesh grid.
 
--- run2_Br.py and run2_Bz.py: Perform linear interpolation of the radial (Br) and axial (Bz) components of the magnetic field between grid points.
+- **'run2_Br.py'** and **'run2_Bz.py'**: Perform linear interpolation of the radial (Br) and axial (Bz) components of the magnetic field between grid points.
 
--- run3_B_continuum.ipynb: Demonstrates the use of a continuum magnetic field function.
+- **'run3_B_continuum.ipynb'**: Demonstrates the use of a continuum magnetic field function.
 
 ## Methodology
 
 The numerical methods used in this project are based on:
 
--- Steiner, O., Pneuman, G., & Stenflo, J., "Numerical models for solar magnetic fluxtubes", Astronomy and Astrophysics, 170, 126 (1986)
+- Steiner, O., Pneuman, G., & Stenflo, J., "Numerical models for solar magnetic fluxtubes", Astronomy and Astrophysics, 170, 126 (1986)
 
 ## Citation
 
 If you use this code or any part of this repository in your research, please cite the following papers:
 
--- Steiner, O., Pneuman, G., & Stenflo, J., "Numerical models for solar magnetic fluxtubes", Astronomy and Astrophysics 170, 126 (1986)
+- Steiner, O., Pneuman, G., & Stenflo, J., "Numerical models for solar magnetic fluxtubes", Astronomy and Astrophysics 170, 126 (1986)
 
--- Li, J-T, Beacom, J., Griffith, S., & Peter, A., "Small-Scale Magnetic Fields are Critical to Shaping Solar Gamma-Ray Emission", The Astrophysical Journal 961, 167 (2024)
+- Li, J-T, Beacom, J., Griffith, S., & Peter, A., "Small-Scale Magnetic Fields are Critical to Shaping Solar Gamma-Ray Emission", The Astrophysical Journal 961, 167 (2024)
