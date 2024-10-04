@@ -1,0 +1,7 @@
+# delta_z = hz/100, [cm]
+# delta_r = hr/100, [cm]
+# N_grid_z = int(L/delta_z) + 1
+# N_grid_r = int(W/delta_r) + 1
+# 
+# Columns: delta_z[cm], delta_r[cm], N_grid_z, N_grid_r
+1.453125e+05	1.093750e+05	6401	6401
