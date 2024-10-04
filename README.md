@@ -7,3 +7,10 @@ run1_network.ipynb provides the numerical result for finite-difference calculati
 run2_Br.py and run2_Bz.py calculate the linear interpolation of Br and Bz between the grid points.
 
 run3_B_continuum.ipynb provides the demonstration for using continuum magnetic field function.
+
+
+####################### How to reference the code: Please reference the following papers when using this code:
+
+Steiner, O., Pneuman, G., Stenflo, J., "Numerical models for solar magnetic fluxtubes", Astronomy and Astrophysics 170, 126 (1986)
+
+Li, J-T, Beacom, J., Griffith, S., and Peter, A., "Small-Scale Magnetic Fields are Critical to Shaping Solar Gamma-Ray Emission", The Astrophysical Journal 961, 167 (2024)
