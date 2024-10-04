@@ -9,12 +9,6 @@ This repository contains numerical methods and results for calculating solar-sur
 
 - **'run3_B_continuum.ipynb'**: Demonstrates the use of a continuum magnetic field function.
 
-## Methodology
-
-The numerical methods used in this project are based on:
-
-- Steiner, O., Pneuman, G., Stenflo, J., "Numerical models for solar magnetic fluxtubes", <a href="https://ui.adsabs.harvard.edu/abs/1986A%26A...170..126S/abstract"> Astronomy and Astrophysics, 170, 126 (1986)
-
 ## Citation
 
 If you use this code or any part of this repository in your research, please cite the following papers:
