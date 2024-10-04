@@ -13,12 +13,12 @@ This repository contains numerical methods and results for calculating magnetic 
 
 The numerical methods used in this project are based on:
 
-- Steiner, O., Pneuman, G., & Stenflo, J., "Numerical models for solar magnetic fluxtubes", Astronomy and Astrophysics, 170, 126 (1986)
+- Steiner, O., Pneuman, G., & Stenflo, J., "Numerical models for solar magnetic fluxtubes", <a href="https://ui.adsabs.harvard.edu/abs/1986A%26A...170..126S/abstract"> Astronomy and Astrophysics, 170, 126 (1986)
 
 ## Citation
 
 If you use this code or any part of this repository in your research, please cite the following papers:
 
-- Steiner, O., Pneuman, G., & Stenflo, J., "Numerical models for solar magnetic fluxtubes", Astronomy and Astrophysics 170, 126 (1986)
+- Steiner, O., Pneuman, G., & Stenflo, J., "Numerical models for solar magnetic fluxtubes", <a href="https://ui.adsabs.harvard.edu/abs/1986A%26A...170..126S/abstract"> Astronomy and Astrophysics 170, 126 (1986)
 
 - Li, J-T, Beacom, J., Griffith, S., & Peter, A., "Small-Scale Magnetic Fields are Critical to Shaping Solar Gamma-Ray Emission", <a href="https://doi.org/10.3847/1538-4357/ad158f"> The Astrophysical Journal 961, 167 (2024)
