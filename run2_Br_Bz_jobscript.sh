@@ -17,3 +17,4 @@ module load openmpi/4.0.3
 source activate fast-mpi4py
 
 srun -m NoPack python -m mpi4py.futures run2_Br.py & wait
+srun -m NoPack python -m mpi4py.futures run2_Bz.py & wait
